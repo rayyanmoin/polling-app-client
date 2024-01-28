@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ag-grid-react": "^31.0.3",
     "antd": "^3.2.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
